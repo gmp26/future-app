@@ -13,7 +13,7 @@ and worked in both the IOS and Android simulators with and without figwheel.
 
 ## Usage
 
-See the [re-natal v0.3.3](https://github.com/drapanjanas/re-natal)
+See the [re-natal v0.3.3](https://github.com/drapanjanas/re-natal) docs
 
 ## License
 
